@@ -4,5 +4,5 @@
 
 ## Використання
 Для запуску програми використовуйте команду:
-
+```shell
 java -jar Dzundza-Module1.jar command filePath key
